@@ -1,0 +1,11 @@
+{
+  "deploy": {
+    "env": "production"
+  },
+  "scripts": {
+    "postinstall": "echo 'Installation complete'"
+  },
+  "build": {
+    "type": "npm"
+  }
+}
